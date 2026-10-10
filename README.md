@@ -1,2 +1,2 @@
-## Analiza danych przestrzennych
-# Dominik Ciura
+# Analiza danych przestrzennych
+### Dominik Ciura
