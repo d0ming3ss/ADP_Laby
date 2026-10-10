@@ -1,2 +1,2 @@
-# Analiza danych przestrzennych
+# Analiza danych przestrzennych - LABORATORIA
 ### Dominik Ciura
