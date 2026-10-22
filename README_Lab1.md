@@ -73,7 +73,7 @@ W Kalkulatorze rastra zastąp przykładowe nazwy `B08@1` i `B04@1` dokładnymi n
 3. Dopasuj widok do zasięgu rastra.
 4. Sprawdź legendę warstwy i widoczny zakres wartości.
    
-![Rys. 3. Wizualizacja wynikowej warstwy NDVI w QGIS.](images/NDVIi.png)
+![Rys. 3. Wizualizacja wynikowej warstwy NDVI w QGIS.](images/NDVI.png)
 
 *Rys. 3. Wizualizacja wynikowej warstwy NDVI w QGIS.*
 
