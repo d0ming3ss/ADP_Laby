@@ -1,4 +1,4 @@
-# Laboratorium 1 — Obliczenie wskaźnika NDVI z danych Sentinel-2 w QGIS
+# Laboratorium 1 - Obliczenie wskaźnika NDVI z danych Sentinel-2 w QGIS
 
 ## 1. Cel ćwiczenia
 
